@@ -56,15 +56,7 @@ Convert the input image into grayscale format.
 
 Compare the results obtained from Global, Adaptive, and Otsu's thresholding methods.
 
-## Program
 
-## Developed By
-
-**Name:** M.MAHENDIRAN
-
-**Register No:** 212225230165
-
-## Output
 ### ORIGINAL
 ```
 import cv2
